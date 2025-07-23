@@ -1,4 +1,4 @@
-# maratona-devops-ia
+# maratona-devops
 
 Link para ter $ 200 na Digital Ocean
 
